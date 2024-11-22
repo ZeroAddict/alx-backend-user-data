@@ -1,9 +1,5 @@
-# Project Name
-**Higher-level Backend Programming**
-
-## Author's Details
-Name: *
-
+# ALX BACKEND-USER-DATA
+U_AUTHENTICATION_SERVICE
 ## Technologies
 * Shell Scripts written in Bash 5.0.17(1).
 * Python scripts interpreted/compiled using python3 (version 3.8.5).

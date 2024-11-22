@@ -1,8 +1,5 @@
-# Project Name
+# ALX BACKEND USER DATA
 **Higher-level Backend Programming**
-
-## Author's Details
-Name: *
 
 ## Technologies
 * Shell Scripts written in Bash 5.0.17(1).
