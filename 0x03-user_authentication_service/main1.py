@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Main file
+Main file for task
 """
 
 from db import DB

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Main file
+Main file for advanced task
 """
 from user import User
 
